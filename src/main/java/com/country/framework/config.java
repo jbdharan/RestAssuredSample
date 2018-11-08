@@ -6,8 +6,8 @@ import io.restassured.http.ContentType;
 
 public class config {
 	public void configure(){
-		RestAssured.baseURI ="http://restcountries.eu/rest/v1/all";
-		
+		RestAssured.baseURI ="https://restcountries.eu/rest/v2/all";
+
 	}
 	
 public RequestSpecification getRequestSpecification(){

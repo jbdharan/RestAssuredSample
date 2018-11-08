@@ -2,82 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9845d88-43c0-46a3-9b00-16846d98d5d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_json_path_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_rest_assured_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_rest_assured_common_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_xml_path_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restAssuredApitest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/country/framework/config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/countryTest/CountryDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/countryTest/country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/common/Endpoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/country/framework/config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/countryTest/CountryDetails.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/countryTest/country.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/common/Endpoint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.countryTest.country.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default suite/Default test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/countryTest/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restAssuredApitest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/restAssuredApitest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/country/framework/config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/country/framework/config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/countryTest/country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/countryTest/country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/common/Endpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/common/Endpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/country/framework/config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/country/framework/config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/countryTest/country.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/countryTest/country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/common/Endpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/common/Endpoint.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,33 +28,34 @@
     <session id="453714457">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="5" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="5" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="20" />
+          <entry key="java" value="929" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="929" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -130,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/common/Endpoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="102">
+              <caret line="6" column="65" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -139,8 +75,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/countryTest/country.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+            <state relative-caret-position="128">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/countryTest/Currency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/country/framework/config.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#337#338#0" expanded="true" />
@@ -165,7 +113,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
+            <state relative-caret-position="325">
               <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
@@ -174,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/countryTest/CountryDetails.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="189">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="e#204#205#0" expanded="true" />
                 <element signature="e#226#227#0" expanded="true" />
@@ -190,14 +138,23 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/country/framework/config.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/country/framework/config.java" />
+        <option value="$PROJECT_DIR$/src/test/java/common/Endpoint.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/countryTest/Currency.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/countryTest/country.java" />
       </list>
     </option>
@@ -225,7 +182,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="1366" />
     <option name="height" value="768" />
   </component>
@@ -236,6 +193,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -308,11 +266,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536519011025" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541712906160" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -327,8 +284,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.country.validateCountry">
-    <configuration name="country.ListAllCountry" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.country.validateAll">
+    <configuration name="Currency.testIncorrectStatusCode" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="restAssuredApitest" />
       <extension name="coverage">
         <pattern>
@@ -337,8 +294,44 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.countryTest" />
-      <option name="MAIN_CLASS_NAME" value="com.countryTest.country" />
-      <option name="METHOD_NAME" value="ListAllCountry" />
+      <option name="MAIN_CLASS_NAME" value="com.countryTest.Currency" />
+      <option name="METHOD_NAME" value="testIncorrectStatusCode" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Currency.testStatusCode" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restAssuredApitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.countryTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.countryTest" />
+      <option name="MAIN_CLASS_NAME" value="com.countryTest.Currency" />
+      <option name="METHOD_NAME" value="testStatusCode" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Currency.validateCurrency" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restAssuredApitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.countryTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.countryTest" />
+      <option name="MAIN_CLASS_NAME" value="com.countryTest.Currency" />
+      <option name="METHOD_NAME" value="validateCurrency" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -364,7 +357,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="country.validateCountry" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="country.validateAll" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="restAssuredApitest" />
       <extension name="coverage">
         <pattern>
@@ -374,7 +367,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.countryTest" />
       <option name="MAIN_CLASS_NAME" value="com.countryTest.country" />
-      <option name="METHOD_NAME" value="validateCountry" />
+      <option name="METHOD_NAME" value="validateAll" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -384,13 +377,17 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.country.testStatusCode" />
-      <item itemvalue="TestNG.country.validateCountry" />
-      <item itemvalue="TestNG.country.ListAllCountry" />
+      <item itemvalue="TestNG.Currency.testStatusCode" />
+      <item itemvalue="TestNG.Currency.testIncorrectStatusCode" />
+      <item itemvalue="TestNG.Currency.validateCurrency" />
+      <item itemvalue="TestNG.country.validateAll" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.country.validateCountry" />
-        <item itemvalue="TestNG.country.ListAllCountry" />
+        <item itemvalue="TestNG.country.validateAll" />
+        <item itemvalue="TestNG.Currency.testStatusCode" />
+        <item itemvalue="TestNG.Currency.validateCurrency" />
+        <item itemvalue="TestNG.Currency.testIncorrectStatusCode" />
         <item itemvalue="TestNG.country.testStatusCode" />
       </list>
     </recent_temporary>
@@ -409,36 +406,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="country_testStatusCode - 2018.09.04 at 21h 23m 04s.xml">
-      <configuration name="country.testStatusCode" configurationId="TestNG" />
+    <history-entry file="Currency_validateCurrency - 2018.11.08 at 20h 33m 14s.xml">
+      <configuration name="Currency.validateCurrency" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="country_validateCountry - 2018.09.04 at 21h 24m 43s.xml">
-      <configuration name="country.validateCountry" configurationId="TestNG" />
+    <history-entry file="Currency_validateCurrency - 2018.11.08 at 20h 34m 31s.xml">
+      <configuration name="Currency.validateCurrency" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="country_ListAllCountry - 2018.09.04 at 21h 25m 38s.xml">
-      <configuration name="country.ListAllCountry" configurationId="TestNG" />
+    <history-entry file="Currency_validateCurrency - 2018.11.08 at 20h 57m 55s.xml">
+      <configuration name="Currency.validateCurrency" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="country_validateCountry - 2018.09.04 at 21h 28m 17s.xml">
-      <configuration name="country.validateCountry" configurationId="TestNG" />
+    <history-entry file="Currency_validateCurrency - 2018.11.08 at 20h 58m 48s.xml">
+      <configuration name="Currency.validateCurrency" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="country_validateCountry - 2018.09.09 at 19h 22m 01s.xml">
-      <configuration name="country.validateCountry" configurationId="TestNG" />
+    <history-entry file="Currency_testStatusCode - 2018.11.08 at 21h 06m 02s.xml">
+      <configuration name="Currency.testStatusCode" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="country_ListAllCountry - 2018.09.09 at 19h 32m 32s.xml">
-      <configuration name="country.ListAllCountry" configurationId="TestNG" />
+    <history-entry file="country_validateAll - 2018.11.08 at 21h 19m 19s.xml">
+      <configuration name="country.validateAll" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="country_ListAllCountry - 2018.09.09 at 19h 46m 35s.xml">
-      <configuration name="country.ListAllCountry" configurationId="TestNG" />
+    <history-entry file="country_validateAll - 2018.11.08 at 21h 21m 03s.xml">
+      <configuration name="country.validateAll" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="country_validateCountry - 2018.09.09 at 19h 48m 16s.xml">
-      <configuration name="country.validateCountry" configurationId="TestNG" />
+    <history-entry file="country_validateAll - 2018.11.08 at 21h 22m 52s.xml">
+      <configuration name="country.validateAll" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="country_validateAll - 2018.11.08 at 21h 24m 38s.xml">
+      <configuration name="country.validateAll" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="country_validateAll - 2018.11.08 at 21h 26m 44s.xml">
+      <configuration name="country.validateAll" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25344563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -446,8 +448,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -455,7 +457,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32913387" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -473,17 +475,17 @@
     <entry file="file://$PROJECT_DIR$/test-output/junitreports/TEST-com.countryTest.country.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/common/Endpoint.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="325">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/country/framework/config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#337#338#0" expanded="true" />
@@ -492,17 +494,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/Endpoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="102">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/countryTest/Currency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/countryTest/CountryDetails.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="189">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="e#204#205#0" expanded="true" />
             <element signature="e#226#227#0" expanded="true" />
@@ -516,8 +528,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/countryTest/country.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        <state relative-caret-position="128">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
